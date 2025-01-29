@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @visitf
+- 👋 Hi, I’m @snghnl
 - 👀 I’m interested in Artificial Intelligence and cognitive scinece
 - 🌱 I’m currently learning Computer Science in colleage.
 - 💞️ I’m looking to collaborate on ...
