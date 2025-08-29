@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @snghnl
+## Hello, I am Seungheon Lee
 
+- I am living in South Korea.
+- I am a undergraduate studuent majoring in Computer Science & Engineering.
 
-<!---
-snghnl/snghnl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Contact
+- [Email](mailto:viselacity@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/seungheon-lee-b3319a288/)
