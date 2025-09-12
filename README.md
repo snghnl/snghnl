@@ -5,4 +5,4 @@
 
 ### Contact
 - [Email](mailto:viselacity@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/seungheon-lee-b3319a288/)
+- [Linkedin](https://www.linkedin.com/in/snghnl)
